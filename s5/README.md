@@ -47,14 +47,9 @@ check the code is available or not
 ![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block5.JPG)  
 
 ### CODE BLOCK: 6
- Get Dataloder as itertable data from utils.py
-
-![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block6.JPG)  
-
-### CODE BLOCK: 6
 Plot the sample data from dataloader.
 
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block6.JPG)  
 
 
 ### CODE BLOCK: 7
