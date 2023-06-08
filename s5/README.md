@@ -9,11 +9,11 @@ This project contains 3 files and files are orgnaised for better readabilty
 
 ## Model Architecture
 Below image explain about network architecture with params used in the s5.ipnb
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/model_architecture.JPG))  
 
 ## model.py
 model.py is model file used in the s5.ipynb for creating a model,lets look at the architecture.
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/Model_arc_code.JPG)  
 
 ## utils.py
 utils.py as lib for project which helps to move the reusable code to one place as mentioned below.
@@ -32,7 +32,7 @@ s5.ipynb is the starting file uses utils.py and model.py let check step by step
 ### CODE BLOCK: 1
 Google cloab driver mount and basic lib installtions
 
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block1.JPG)  
 
 ### CODE BLOCK: 2
 check the code is available or not
@@ -44,12 +44,12 @@ check the code is available or not
 ### CODE BLOCK: 5
  Get Dataset as itertable data from utils.py
 
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block5.JPG)  
 
 ### CODE BLOCK: 6
  Get Dataloder as itertable data from utils.py
 
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block6.JPG)  
 
 ### CODE BLOCK: 6
 Plot the sample data from dataloader.
@@ -60,7 +60,7 @@ Plot the sample data from dataloader.
 ### CODE BLOCK: 7
 Create model object using model.py and list summary 
 
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block7.JPG)  
 
 
 ### CODE BLOCK: 8,9
@@ -70,5 +70,5 @@ Create model object using model.py and list summary
 ### CODE BLOCK: 11
 Plot the loss for train and test and accuracy for train and test.
 
-![Alt text](./resource/model_architecture.jpg)  
+![Alt text](https://github.com/techpvk/EVR1/blob/main/s5/resource/block11.JPG)  
 
