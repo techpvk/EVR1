@@ -4,7 +4,7 @@ Set up -> Basic Skeleton ->
 Some quick tips
 
 | Stage        | Target           | Results  | Analysis  | 
-| ------------- |:-------------:| -----:|-----:|
+| :------------- |:-------------|:-----|:-----|
 | Set up   | <ul><li>Get the set-up right</li><li>Set Transforms</li><li>Set Data Loader</li><li>Set Basic Working Code</li><li>Set Basic Training  & Test Loop</li></ul> | <ul><li>Parameters: 6.3M</li><li>Best Training Accuracy: 99.99</li><li>Best Test Accuracy: 99.24</li></ul>|<ul><li>Extremely Heavy Model for such a problem</li><li>Model is over-fitting, but we are changing our model in the next step</li></ul> | 
 | Basic Skeleton  |<ul><li>Get the basic skeleton right. We will try and avoid changing this skeleton as much as possible. </li><li>No fancy stuff</li></ul>|<ul><li>Parameters: 194k</li><li>Best Train Accuracy: 99.35</li><li>Best Test Accuracy: 99.02</li>|<ul><li>The model is still large, but working. </li><li>We see some over-fitting</li>
 | Lighter Model  |<ul><li>Make the model lighter</li></ul></ul>|<li>Parameters: 10.7k</li><li>Best Train Accuracy: 99.00</li><li>Best Test Accuracy: 98.98</li></ul>|<li>Good model!</li><li>No over-fitting, model is capable if pushed further</li></ul> 
