@@ -1,5 +1,5 @@
 
-## Genral good approch 
+## Genral Good Model Build Optimsation Approch 
 Set up -> Basic Skeleton -> 
 Some quick tips
 
