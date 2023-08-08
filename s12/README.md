@@ -44,7 +44,6 @@ Below is the Lightning example code showing what all functions are needed in the
 5. `test_step` function --> captures testset losses
 6. `configure_optimizers` function --> here the learning_rate, optimizers, schedulers are defined
 
-![PyTorch lightning-59](https://github.com/phaninandula/ERA-Session12/assets/30425824/f30307c2-bf52-4a81-9b3b-d3b619bb8d5c)
 
 ## 🏗 Model Architecture
 
@@ -66,3 +65,8 @@ The model was trained for 24 epochs and achieved an test accuracy of 86.11 % on 
 ## ❌ Misclassified Images
 
 Few Samples of misclassified images can be seen in the folder `misclassified_images`  
+
+## Gradio Implementation & Results
+Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!. We use Huggingface Space to showcase our results with the help of Gradio in the backend.
+
+You can find the link to the app here: https://huggingface.co/spaces/VenkataKumar/demo1-1
